@@ -1,0 +1,9 @@
+{
+  "name": "example-circleci",
+  "version": "0.1.0",
+  "description": "An example using CircleCI ",
+  "scripts": {
+    "compile": "echo \"Testing compile!\"",
+    "deploy": "npm run compile"
+  }
+}
