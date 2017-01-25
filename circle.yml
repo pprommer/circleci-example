@@ -1,5 +1,3 @@
-deployment:
-  production:
-    branch: master
-    commands:
-      - npm run deploy
+machine:
+  node:
+    version: 6.9.4 
